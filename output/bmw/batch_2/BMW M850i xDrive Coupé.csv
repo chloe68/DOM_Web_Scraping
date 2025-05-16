@@ -1,0 +1,4 @@
+Country,Model_Name,URL,Model,Price,CreditAmount,DepositAmount,NominalInterestRate,Term,InterestRate,MonthlyPayment_Ziel,TotalCredit,BallonAmount
+Germany,BMW M850i xDrive Coupé,https://configure.bmw.de/de_DE/configure/G15/BC41,"BMW M850i xDrive Coupé - Option ('1004964', '24')","139.200,00 €","111.360,00 €","27.840,00 €","6,30 %",24 Monate,"6,49 %","2.085,71 €","123.139,33 €","75.168,00 €"
+Germany,BMW M850i xDrive Coupé,https://configure.bmw.de/de_DE/configure/G15/BC41,"BMW M850i xDrive Coupé - Option ('1004964', '30')","139.200,00 €","111.360,00 €","27.840,00 €","6,30 %",30 Monate,"6,49 %","1.889,24 €","125.779,96 €","70.992,00 €"
+Germany,BMW M850i xDrive Coupé,https://configure.bmw.de/de_DE/configure/G15/BC41,"BMW M850i xDrive Coupé - Option ('1004964', '36')","139.200,00 €","111.360,00 €","27.840,00 €","6,30 %",36 Monate,"6,49 %","1.756,77 €","128.302,95 €","66.816,00 €"
