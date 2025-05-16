@@ -1,0 +1,2952 @@
+"card-compact__title","card-compact__description","card-compact-review href","wowscore-pill","card-compact-review__text","media-slider__pages","media-slider__image src","media-slider__image src 2","media-slider__image src 3","badge","tile-button href","tile-button__title","div","tile-button href 2","tile-button__title 2","div 2","google-ad","tablescraper-selected-row","tablescraper-selected-row 2","tablescraper-selected-row 3"
+"Opel Mokka","Popular compact SUV on a new platform","https://www.carwow.de/opel/mokka","8/10","Opel Mokka review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-2020&filter%5Bsize%5D=medium","Average savings €6,201","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=mokka-2020","New Opel Mokka offers","From €22,415","https://www.carwow.de/opel/mokka/leasing","Opel Mokka leasing offers","Leasing from 94 € / month","","","",""
+"Leapmotor T03","","https://www.carwow.de/leapmotor/t03","7/10","Leapmotor T03 review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=leapmotor&filter%5Bmodel_review_slug%5D=t03-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=leapmotor&filter%5Bmodel_review_slug%5D=t03-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=leapmotor&filter%5Bmodel_review_slug%5D=t03-2024&filter%5Bsize%5D=medium","Average savings €661","https://angebote.carwow.de/buying/car-configurator/trim?make=leapmotor&model=t03-2024","New Leapmotor T03 offers","From 19,334 €","https://www.carwow.de/leapmotor/t03/leasing","Leapmotor T03 leasing offers","Leasing from 94 € / month","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-0e16f9a8ff65410141240ae1f6ee2826"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-0e16f9a8ff65410141240ae1f6ee2826"", true);
+  });",".google-ad#div-gpt-0e16f9a8ff65410141240ae1f6ee2826 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-0e16f9a8ff65410141240ae1f6ee2826 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-0e16f9a8ff65410141240ae1f6ee2826 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-0e16f9a8ff65410141240ae1f6ee2826 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-0e16f9a8ff65410141240ae1f6ee2826 {
+      min-height: 270px;
+    }
+  }"
+"Opel Corsa","A classic in the small car class","https://www.carwow.de/opel/corsa","7/10","Opel Corsa review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=corsa&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=corsa&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=corsa&filter%5Bsize%5D=medium","Average savings €5,174","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=corsa","New Opel Corsa offers","From 19,248 €","https://www.carwow.de/opel/corsa/leasing","Opel Corsa leasing offers","Leasing from 88 € / month","","","",""
+"Skoda Fabia","Affordable small car as an everyday companion","https://www.carwow.de/skoda/fabia","9/10","Skoda Fabia review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=fabia-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=fabia-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=fabia-2021&filter%5Bsize%5D=medium","Average savings €6,367","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=fabia-2021","New Skoda Fabia offers","From 15,937 €","https://www.carwow.de/skoda/fabia/leasing","Skoda Fabia leasing offers","Leasing from 108 € / month","","","",""
+"Dacia Spring","Mini SUV with a robust look","https://www.carwow.de/dacia/spring","6/10","Dacia Spring review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=spring-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=spring-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=spring-2024&filter%5Bsize%5D=medium","Average savings €4,165","https://angebote.carwow.de/buying/car-configurator/trim?make=dacia&model=spring-2024","New Dacia Spring offers","From 13,225 €","https://www.carwow.de/dacia/spring/leasing","Dacia Spring leasing offers","Leasing from 113 € / month","","","",""
+"Volkswagen T-Roc","Golf SUV with more space","https://www.carwow.de/volkswagen/t-roc","8/10","Volkswagen T-Roc review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=t-roc&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=t-roc&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=t-roc&filter%5Bsize%5D=medium","Average savings €7,894","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=t-roc","New Volkswagen T-Roc offers","From €23,784","https://www.carwow.de/volkswagen/t-roc/leasing","Volkswagen T-Roc leasing offers","Leasing from 119 € / month","","","",""
+"Fiat 500 Electric","Italian lightness meets modern technology","https://www.carwow.de/fiat/500-elektro","8/10","Fiat 500 Electric review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=fiat&filter%5Bmodel_review_slug%5D=500-elektro-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=fiat&filter%5Bmodel_review_slug%5D=500-elektro-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=fiat&filter%5Bmodel_review_slug%5D=500-elektro-2020&filter%5Bsize%5D=medium","Average savings €5,423","https://angebote.carwow.de/buying/car-configurator/trim?make=fiat&model=500-elektro-2020","New Fiat 500 Electric offers","From €25,919","https://www.carwow.de/fiat/500-elektro/leasing","Fiat 500 Electric Leasing Offers","Leasing from 119 € / month","","","",""
+"Dacia Sandero","Affordable all-rounder","https://www.carwow.de/dacia/sandero","7/10","Dacia Sandero review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-2020&filter%5Bsize%5D=medium","","https://angebote.carwow.de/buying/car-configurator/trim?make=dacia&model=sandero-2020","New Dacia Sandero offers","From 12,980 €","https://www.carwow.de/dacia/sandero/leasing","Dacia Sandero leasing offers","Leasing from 120 € / month","","","",""
+"SEAT Ibiza","With more space and comfort in the footsteps of the Leon","https://www.carwow.de/seat/ibiza","8/10","SEAT Ibiza review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ibiza&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ibiza&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ibiza&filter%5Bsize%5D=medium","Average savings €4,619","https://angebote.carwow.de/buying/car-configurator/trim?make=seat&model=ibiza","New SEAT Ibiza offers","From 16,477 €","https://www.carwow.de/seat/ibiza/leasing","SEAT Ibiza leasing offers","Leasing from 138 € / month","","","",""
+"SEAT Arona","Lively Ibiza SUV for the city","https://www.carwow.de/seat/arona","8/10","SEAT Arona review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=arona&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=arona&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=arona&filter%5Bsize%5D=medium","Average savings €5,450","https://angebote.carwow.de/buying/car-configurator/trim?make=seat&model=arona","New SEAT Arona offers","From 19,436 €","https://www.carwow.de/seat/arona/leasing","SEAT Arona leasing offers","Leasing from 138 € / month","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-fdb9fad2342c97f9cb06a9f0966eb258"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-fdb9fad2342c97f9cb06a9f0966eb258"", true);
+  });",".google-ad#div-gpt-fdb9fad2342c97f9cb06a9f0966eb258 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-fdb9fad2342c97f9cb06a9f0966eb258 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-fdb9fad2342c97f9cb06a9f0966eb258 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-fdb9fad2342c97f9cb06a9f0966eb258 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-fdb9fad2342c97f9cb06a9f0966eb258 {
+      min-height: 270px;
+    }
+  }"
+"Renault Clio","Spritziger Viertürer mit französischem Chic","https://www.carwow.de/renault/clio","7/10","Renault Clio Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=clio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=clio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=clio&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.588 €","https://angebote.carwow.de/buying/car-configurator/trim?make=renault&model=clio","Neue Renault Clio Angebote","Ab 17.631 €","https://www.carwow.de/renault/clio/leasing","Renault Clio Leasing-Angebote","Leasen ab 138 € / Monat","","","",""
+"Jeep Avenger","","https://www.carwow.de/jeep/avenger","8/10","Jeep Avenger Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=avenger-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=avenger-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=avenger-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.548 €","https://angebote.carwow.de/buying/car-configurator/trim?make=jeep&model=avenger-2022","Neue Jeep Avenger Angebote","Ab 22.793 €","https://www.carwow.de/jeep/avenger/leasing","Jeep Avenger Leasing-Angebote","Leasen ab 139 € / Monat","","","",""
+"Hyundai i10","Dynamischer Kleinwagen mit sportlicher Optik","https://www.carwow.de/hyundai/i10","8/10","Hyundai i10 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i10-2019&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i10-2019&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i10-2019&filter%5Bsize%5D=medium","Mittl. Ersparnis 2.862 €","https://angebote.carwow.de/buying/car-configurator/trim?make=hyundai&model=i10-2019","Neue Hyundai i10 Angebote","Ab 16.855 €","https://www.carwow.de/hyundai/i10/leasing","Hyundai i10 Leasing-Angebote","Leasen ab 141 € / Monat","","","",""
+"Peugeot 2008","Robuster SUV mit kompakten Abmessungen","https://www.carwow.de/peugeot/2008","7/10","Peugeot 2008 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=2008&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=2008&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=2008&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.972 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=2008","Neue Peugeot 2008 Angebote","Ab 23.656 €","https://www.carwow.de/peugeot/2008/leasing","Peugeot 2008 Leasing-Angebote","Leasen ab 147 € / Monat","","","",""
+"Skoda Kamiq","Modernes City-SUV","https://www.carwow.de/skoda/kamiq","8/10","Skoda Kamiq Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kamiq&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kamiq&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kamiq&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.212 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=kamiq","Neue Skoda Kamiq Angebote","Ab 20.667 €","https://www.carwow.de/skoda/kamiq/leasing","Skoda Kamiq Leasing-Angebote","Leasen ab 152 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-ddd7b0f692e957cfc090e33542f1ef5e"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-ddd7b0f692e957cfc090e33542f1ef5e"", true);
+  });",".google-ad#div-gpt-ddd7b0f692e957cfc090e33542f1ef5e {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-ddd7b0f692e957cfc090e33542f1ef5e {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-ddd7b0f692e957cfc090e33542f1ef5e {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-ddd7b0f692e957cfc090e33542f1ef5e {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-ddd7b0f692e957cfc090e33542f1ef5e {
+      min-height: 270px;
+    }
+  }"
+"Dacia Sandero Stepway","Der Allrounder im Offroad-Kleid","https://www.carwow.de/dacia/sandero-stepway","9/10","Dacia Sandero Stepway Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-stepway-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-stepway-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=sandero-stepway-2020&filter%5Bsize%5D=medium","","https://angebote.carwow.de/buying/car-configurator/trim?make=dacia&model=sandero-stepway-2020","Neue Dacia Sandero Stepway Angebote","Ab 15.680 €","https://www.carwow.de/dacia/sandero-stepway/leasing","Dacia Sandero Stepway Leasing-Angebote","Leasen ab 153 € / Monat","","","",""
+"Peugeot 208","Wirtschaftlicher City-Flitzer","https://www.carwow.de/peugeot/208","7/10","Peugeot 208 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=208&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=208&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=208&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.025 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=208","Neue Peugeot 208 Angebote","Ab 20.204 €","https://www.carwow.de/peugeot/208/leasing","Peugeot 208 Leasing-Angebote","Leasen ab 153 € / Monat","","","",""
+"Volkswagen Taigo","Sportlicher 5-Sitzer mit Tango-Flair","https://www.carwow.de/volkswagen/taigo","7/10","Volkswagen Taigo Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=taigo-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=taigo-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=taigo-2021&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.356 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=taigo-2021","Neue Volkswagen Taigo Angebote","Ab 20.397 €","https://www.carwow.de/volkswagen/taigo/leasing","Volkswagen Taigo Leasing-Angebote","Leasen ab 155 € / Monat","","","",""
+"MG MG3 Hybrid+","","https://www.carwow.de/mg/mg-3","7/10","MG MG3 Hybrid+ Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=mg-3-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=mg-3-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=mg-3-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 2.109 €","https://angebote.carwow.de/buying/car-configurator/trim?make=mg&model=mg-3-2024","Neue MG MG3 Hybrid+ Angebote","Ab 17.711 €","https://www.carwow.de/mg/mg-3/leasing","MG MG3 Hybrid+ Leasing-Angebote","Leasen ab 164 € / Monat","","","",""
+"Alfa Romeo Junior Ibrida","","https://www.carwow.de/alfa-romeo/junior-ibrida","7/10","Alfa Romeo Junior Ibrida Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=junior-ibrida-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=junior-ibrida-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=junior-ibrida-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 2.437 €","https://angebote.carwow.de/buying/car-configurator/trim?make=alfa-romeo&model=junior-ibrida-2024","Neue Alfa Romeo Junior Ibrida Angebote","Ab 28.699 €","https://www.carwow.de/alfa-romeo/junior-ibrida/leasing","Alfa Romeo Junior Ibrida Leasing-Angebote","Leasen ab 169 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-1d2671eadd2c8757419bf5d40d46c5cc"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-1d2671eadd2c8757419bf5d40d46c5cc"", true);
+  });",".google-ad#div-gpt-1d2671eadd2c8757419bf5d40d46c5cc {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-1d2671eadd2c8757419bf5d40d46c5cc {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-1d2671eadd2c8757419bf5d40d46c5cc {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-1d2671eadd2c8757419bf5d40d46c5cc {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-1d2671eadd2c8757419bf5d40d46c5cc {
+      min-height: 270px;
+    }
+  }"
+"Volkswagen Polo","Hochwertiger Kleinwagen bietet viel Komfort","https://www.carwow.de/volkswagen/polo","8/10","Volkswagen Polo Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.488 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=polo","Neue Volkswagen Polo Angebote","Ab 17.852 €","https://www.carwow.de/volkswagen/polo/leasing","Volkswagen Polo Leasing-Angebote","Leasen ab 169 € / Monat","","","",""
+"SEAT Ateca","Sportiver SUV mit großzügigem Platzangebot","https://www.carwow.de/seat/ateca","8/10","SEAT Ateca Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ateca&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ateca&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=seat&filter%5Bmodel_review_slug%5D=ateca&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.350 €","https://angebote.carwow.de/buying/car-configurator/trim?make=seat&model=ateca","Neue SEAT Ateca Angebote","Ab 25.648 €","https://www.carwow.de/seat/ateca/leasing","SEAT Ateca Leasing-Angebote","Leasen ab 169 € / Monat","","","",""
+"Nissan JUKE","SUV mal anders","https://www.carwow.de/nissan/juke","7/10","Nissan JUKE Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=juke&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=juke&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=juke&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.124 €","https://angebote.carwow.de/buying/car-configurator/trim?make=nissan&model=juke","Neue Nissan JUKE Angebote","Ab 20.950 €","https://www.carwow.de/nissan/juke/leasing","Nissan JUKE Leasing-Angebote","Leasen ab 169 € / Monat","","","",""
+"Suzuki S-Cross","Kompakt-SUV mit Hybrid-Antrieb","https://www.carwow.de/suzuki/s-cross","7/10","Suzuki S-Cross Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=suzuki&filter%5Bmodel_review_slug%5D=s-cross-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=suzuki&filter%5Bmodel_review_slug%5D=s-cross-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=suzuki&filter%5Bmodel_review_slug%5D=s-cross-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.872 €","https://angebote.carwow.de/buying/car-configurator/trim?make=suzuki&model=s-cross-2022","Neue Suzuki S-Cross Angebote","Ab 25.677 €","https://www.carwow.de/suzuki/s-cross/leasing","Suzuki S-Cross Leasing-Angebote","Leasen ab 178 € / Monat","","","",""
+"Mazda 2 Hybrid","Sparsamer City-Flitzer mit Vollhybridantrieb","https://www.carwow.de/mazda/mazda-2-hybrid","8/10","Mazda 2 Hybrid Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=mazda-2-hybrid-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=mazda-2-hybrid-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=mazda-2-hybrid-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.743 €","https://angebote.carwow.de/buying/car-configurator/trim?make=mazda&model=mazda-2-hybrid-2022","Neue Mazda 2 Hybrid Angebote","Ab 20.483 €","https://www.carwow.de/mazda/mazda-2-hybrid/leasing","Mazda 2 Hybrid Leasing-Angebote","Leasen ab 165 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-8f0858bbcadfa39b62c528e7258c3830"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-8f0858bbcadfa39b62c528e7258c3830"", true);
+  });",".google-ad#div-gpt-8f0858bbcadfa39b62c528e7258c3830 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-8f0858bbcadfa39b62c528e7258c3830 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-8f0858bbcadfa39b62c528e7258c3830 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-8f0858bbcadfa39b62c528e7258c3830 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-8f0858bbcadfa39b62c528e7258c3830 {
+      min-height: 270px;
+    }
+  }"
+"Opel Astra","Kompakter Allrounder mit guter Sicherheitsausstattung","https://www.carwow.de/opel/astra","8/10","Opel Astra Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-2021&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.280 €","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=astra-2021","Neue Opel Astra Angebote","Ab 24.534 €","https://www.carwow.de/opel/astra/leasing","Opel Astra Leasing-Angebote","Leasen ab 183 € / Monat","","","",""
+"Dacia Bigster","","https://www.carwow.de/dacia/bigster","9/10","Dacia Bigster Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=bigster-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=bigster-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=dacia&filter%5Bmodel_review_slug%5D=bigster-2025&filter%5Bsize%5D=medium","","https://angebote.carwow.de/buying/car-configurator/trim?make=dacia&model=bigster-2025","Neue Dacia Bigster Angebote","Ab 24.480 €","https://www.carwow.de/dacia/bigster/leasing","Dacia Bigster Leasing-Angebote","Leasen ab 187 € / Monat","","","",""
+"KIA Ceed","Sicherer Kompaktwagen mit gutem Fahrwerk","https://www.carwow.de/kia/ceed","8/10","KIA Ceed Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.530 €","https://angebote.carwow.de/buying/car-configurator/trim?make=kia&model=ceed","Neue KIA Ceed Angebote","Ab 22.467 €","https://www.carwow.de/kia/ceed/leasing","KIA Ceed Leasing-Angebote","Leasen ab 188 € / Monat","","","",""
+"Citroen C5 Aircross","Expressive SUV","https://www.carwow.de/citroen/c5-aircross","7/10","Citroen C5 Aircross review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=c5-aircross&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=c5-aircross&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=c5-aircross&filter%5Bsize%5D=medium","Average savings €4,679","https://angebote.carwow.de/buying/car-configurator/trim?make=citroen&model=c5-aircross","New Citroen C5 Aircross offers","From 30,511 €","https://www.carwow.de/citroen/c5-aircross/leasing","Citroen C5 Aircross leasing offers","Leasing from 189 € / month","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7"", true);
+  });",".google-ad#div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-4dc9d176bc2dd8e4ae3556da6b6286e7 {
+      min-height: 270px;
+    }
+  }"
+"Hyundai i20","Kleinwagen mit modernem, sportlichem Look","https://www.carwow.de/hyundai/i20","8/10","Hyundai i20 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i20-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i20-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=i20-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.700 €","https://angebote.carwow.de/buying/car-configurator/trim?make=hyundai&model=i20-2020","Neue Hyundai i20 Angebote","Ab 17.709 €","https://www.carwow.de/hyundai/i20/leasing","Hyundai i20 Leasing-Angebote","Leasen ab 199 € / Monat","","","",""
+"KIA Ceed Sportswagon","Kompakter Kombi mit sportlichem Design","https://www.carwow.de/kia/ceed-sportswagon","8/10","KIA Ceed Sportswagon Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed-sportswagon&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed-sportswagon&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=ceed-sportswagon&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.268 €","https://angebote.carwow.de/buying/car-configurator/trim?make=kia&model=ceed-sportswagon","Neue KIA Ceed Sportswagon Angebote","Ab 22.712 €","https://www.carwow.de/kia/ceed-sportswagon/leasing","KIA Ceed Sportswagon Leasing-Angebote","Leasen ab 202 € / Monat","","","",""
+"Jeep Compass","Geräumiger SUV in amerikanischem Design","https://www.carwow.de/jeep/compass","7/10","Jeep Compass Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=compass&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=compass&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=compass&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.066 €","https://angebote.carwow.de/buying/car-configurator/trim?make=jeep&model=compass","Neue Jeep Compass Angebote","Ab 33.608 €","https://www.carwow.de/jeep/compass/leasing","Jeep Compass Leasing-Angebote","Leasen ab 205 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-cb6018aedec1383cc780f75a6cad0aa7"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-cb6018aedec1383cc780f75a6cad0aa7"", true);
+  });",".google-ad#div-gpt-cb6018aedec1383cc780f75a6cad0aa7 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-cb6018aedec1383cc780f75a6cad0aa7 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-cb6018aedec1383cc780f75a6cad0aa7 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-cb6018aedec1383cc780f75a6cad0aa7 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-cb6018aedec1383cc780f75a6cad0aa7 {
+      min-height: 270px;
+    }
+  }"
+"KIA Stonic","Bunter Kompakt-SUV mit einfacher Bedienung","https://www.carwow.de/kia/stonic","7/10","KIA Stonic Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=stonic&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=stonic&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=stonic&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.727 €","https://angebote.carwow.de/buying/car-configurator/trim?make=kia&model=stonic","Neue KIA Stonic Angebote","Ab 20.413 €","https://www.carwow.de/kia/stonic/leasing","KIA Stonic Leasing-Angebote","Leasen ab 206 € / Monat","","","",""
+"Volkswagen Polo GTI","Sportlicher Kleinwagen mit dem Plus an PS","https://www.carwow.de/volkswagen/polo-gti","8/10","Volkswagen Polo GTI Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo-gti-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo-gti-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=polo-gti-2021&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.799 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=polo-gti-2021","Neue Volkswagen Polo GTI Angebote","Ab 28.841 €","https://www.carwow.de/volkswagen/polo-gti/leasing","Volkswagen Polo GTI Leasing-Angebote","Leasen ab 207 € / Monat","","","",""
+"Ford Tourneo Connect","Geräumiger Hochdachkombi mit hohem Fahrkomfort","https://www.carwow.de/ford/tourneo-connect","8/10","Ford Tourneo Connect Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-connect-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-connect-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-connect-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.369 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ford&model=tourneo-connect-2022","Neue Ford Tourneo Connect Angebote","Ab 25.311 €","https://www.carwow.de/ford/tourneo-connect/leasing","Ford Tourneo Connect Leasing-Angebote","Leasen ab 208 € / Monat","","","",""
+"Toyota Proace City Verso","Spannender Neuankömmling unter den Hochdachkombis","https://www.carwow.de/toyota/proace-city-verso","8/10","Toyota Proace City Verso Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 4.093 €","https://angebote.carwow.de/buying/car-configurator/trim?make=toyota&model=proace-city-verso-2020","Neue Toyota Proace City Verso Angebote","Ab 22.451 €","https://www.carwow.de/toyota/proace-city-verso/leasing","Toyota Proace City Verso Leasing-Angebote","Leasen ab 215 € / Monat","","","",""
+"Volvo EX30","Kleines SUV für den Elektro-Einstieg","https://www.carwow.de/volvo/ex30","8/10","Volvo EX30 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex30-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex30-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex30-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.263 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volvo&model=ex30-2023","Neue Volvo EX30 Angebote","Ab 35.192 €","https://www.carwow.de/volvo/ex30/leasing","Volvo EX30 Leasing-Angebote","Leasen ab 215 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-3287312db1c630e7da29db7e26856d9a"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-3287312db1c630e7da29db7e26856d9a"", true);
+  });",".google-ad#div-gpt-3287312db1c630e7da29db7e26856d9a {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-3287312db1c630e7da29db7e26856d9a {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-3287312db1c630e7da29db7e26856d9a {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-3287312db1c630e7da29db7e26856d9a {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-3287312db1c630e7da29db7e26856d9a {
+      min-height: 270px;
+    }
+  }"
+"Skoda Karoq Sportline","Die sportliche Variante des Kompakt-SUVs","https://www.carwow.de/skoda/karoq-sportline","8/10","Skoda Karoq Sportline Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=karoq-sportline&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=karoq-sportline&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=karoq-sportline&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.620 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=karoq-sportline","Neue Skoda Karoq Sportline Angebote","Ab 32.410 €","https://www.carwow.de/skoda/karoq-sportline/leasing","Skoda Karoq Sportline Leasing-Angebote","Leasen ab 217 € / Monat","","","",""
+"Audi A1 Sportback","Individueller Stadtflitzer macht Platz für mehr","https://www.carwow.de/audi/a1-sportback","7/10","Audi A1 Sportback Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a1-sportback&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a1-sportback&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a1-sportback&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.411 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=a1-sportback","Neue Audi A1 Sportback Angebote","Ab 19.021 €","https://www.carwow.de/audi/a1-sportback/leasing","Audi A1 Sportback Leasing-Angebote","Leasen ab 218 € / Monat","","","",""
+"Skoda Octavia","Hochwertige Limousine mit bösem Blick","https://www.carwow.de/skoda/octavia","9/10","Skoda Octavia Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.939 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=octavia-2020","Neue Skoda Octavia Angebote","Ab 22.600 €","https://www.carwow.de/skoda/octavia/leasing","Skoda Octavia Leasing-Angebote","Leasen ab 220 € / Monat","","","",""
+"MG MG ZS","Verbrenner Version des Kompakt SUVs","https://www.carwow.de/mg/zs-ce","7/10","MG MG ZS Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=zs-ce-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=zs-ce-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=mg&filter%5Bmodel_review_slug%5D=zs-ce-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.454 €","https://angebote.carwow.de/buying/car-configurator/trim?make=mg&model=zs-ce-2022","Neue MG MG ZS Angebote","Ab 18.841 €","https://www.carwow.de/mg/zs-ce/leasing","MG MG ZS Leasing-Angebote","Leasen ab 230 € / Monat","","","",""
+"Renault Austral","Hybrid betriebener Kompakt-SUV","https://www.carwow.de/renault/austral","8/10","Renault Austral Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=austral-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=austral-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=austral-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.854 €","https://angebote.carwow.de/buying/car-configurator/trim?make=renault&model=austral-2022","Neue Renault Austral Angebote","Ab 30.485 €","https://www.carwow.de/renault/austral/leasing","Renault Austral Leasing-Angebote","Leasen ab 232 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5"", true);
+  });",".google-ad#div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-0d454b7376c41cd089efe6bd5b9c2fc5 {
+      min-height: 270px;
+    }
+  }"
+"Volkswagen Golf 8","Die Neuauflage des Klassikers","https://www.carwow.de/volkswagen/golf","9/10","Volkswagen Golf 8 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-8&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.990 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=golf-8","Neue Volkswagen Golf 8 Angebote","Ab 24.043 €","https://www.carwow.de/volkswagen/golf/leasing","Volkswagen Golf 8 Leasing-Angebote","Leasen ab 233 € / Monat","","","",""
+"Opel Frontera","","https://www.carwow.de/opel/frontera","7/10","Opel Frontera Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=frontera-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=frontera-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=frontera-2025&filter%5Bsize%5D=medium","Mittl. Ersparnis 4.779 €","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=frontera-2025","Neue Opel Frontera Angebote","Ab 20.588 €","https://www.carwow.de/opel/frontera/leasing","Opel Frontera Leasing-Angebote","Leasen ab 235 € / Monat","","","",""
+"Toyota Yaris","Spritzigen Kleinwagen gibt es auch als Hybrid","https://www.carwow.de/toyota/yaris","8/10","Toyota Yaris Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=yaris-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=yaris-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=yaris-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.248 €","https://angebote.carwow.de/buying/car-configurator/trim?make=toyota&model=yaris-2020","Neue Toyota Yaris Angebote","Ab 23.685 €","https://www.carwow.de/toyota/yaris/leasing","Toyota Yaris Leasing-Angebote","Leasen ab 179 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-48213b480ca94df999c12ce35779a141"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-48213b480ca94df999c12ce35779a141"", true);
+  });",".google-ad#div-gpt-48213b480ca94df999c12ce35779a141 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-48213b480ca94df999c12ce35779a141 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-48213b480ca94df999c12ce35779a141 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-48213b480ca94df999c12ce35779a141 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-48213b480ca94df999c12ce35779a141 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-608427cc77ab3051bf380b82d0d43749"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-608427cc77ab3051bf380b82d0d43749"", true);
+  });",".google-ad#div-gpt-608427cc77ab3051bf380b82d0d43749 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-608427cc77ab3051bf380b82d0d43749 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-608427cc77ab3051bf380b82d0d43749 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-608427cc77ab3051bf380b82d0d43749 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-608427cc77ab3051bf380b82d0d43749 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045"", true);
+  });",".google-ad#div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-d1ca5d0a9d340e3c9c4af1e93703e045 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-4eb1b3c095395f25dbd2336881b654e3"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-4eb1b3c095395f25dbd2336881b654e3"", true);
+  });",".google-ad#div-gpt-4eb1b3c095395f25dbd2336881b654e3 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-4eb1b3c095395f25dbd2336881b654e3 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-4eb1b3c095395f25dbd2336881b654e3 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-4eb1b3c095395f25dbd2336881b654e3 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-4eb1b3c095395f25dbd2336881b654e3 {
+      min-height: 270px;
+    }
+  }"
+"Mazda CX-5","Schicker SUV mit effizienten Motoren","https://www.carwow.de/mazda/cx-5","8/10","Mazda CX-5 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=cx-5&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=cx-5&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=mazda&filter%5Bmodel_review_slug%5D=cx-5&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.200 €","https://angebote.carwow.de/buying/car-configurator/trim?make=mazda&model=cx-5","Neue Mazda CX-5 Angebote","Ab 27.073 €","https://www.carwow.de/mazda/cx-5/leasing","Mazda CX-5 Leasing-Angebote","Leasen ab 303 € / Monat","","","",""
+"Skoda Enyaq","Praktisches Elektroauto zwischen SUV und Van","https://www.carwow.de/skoda/enyaq-iv","8/10","Skoda Enyaq Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=enyaq-iv-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=enyaq-iv-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=enyaq-iv-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.267 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=enyaq-iv-2020","Neue Skoda Enyaq Angebote","Ab 36.832 €","https://www.carwow.de/skoda/enyaq-iv/leasing","Skoda Enyaq Leasing-Angebote","Leasen ab 303 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-1d1389c503257d8cbecd97e67c89b9ac"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-1d1389c503257d8cbecd97e67c89b9ac"", true);
+  });",".google-ad#div-gpt-1d1389c503257d8cbecd97e67c89b9ac {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-1d1389c503257d8cbecd97e67c89b9ac {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-1d1389c503257d8cbecd97e67c89b9ac {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-1d1389c503257d8cbecd97e67c89b9ac {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-1d1389c503257d8cbecd97e67c89b9ac {
+      min-height: 270px;
+    }
+  }"
+"Cupra Formentor","Der erste eigenständige Cupra","https://www.carwow.de/cupra/formentor","8/10","Cupra Formentor Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=cupra&filter%5Bmodel_review_slug%5D=formentor-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=cupra&filter%5Bmodel_review_slug%5D=formentor-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=cupra&filter%5Bmodel_review_slug%5D=formentor-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.076 €","https://angebote.carwow.de/buying/car-configurator/trim?make=cupra&model=formentor-2020","Neue Cupra Formentor Angebote","Ab 33.635 €","https://www.carwow.de/cupra/formentor/leasing","Cupra Formentor Leasing-Angebote","Leasen ab 304 € / Monat","","","",""
+"Audi Q3","Kompakt-SUV mit modernem Interieur","https://www.carwow.de/audi/q3","8/10","Audi Q3 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.625 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=q3","Neue Audi Q3 Angebote","Ab 32.237 €","https://www.carwow.de/audi/q3/leasing","Audi Q3 Leasing-Angebote","Leasen ab 306 € / Monat","","","",""
+"Renault Kangoo E-TECH","","","","","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=kangoo-e-tech-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=kangoo-e-tech-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=renault&filter%5Bmodel_review_slug%5D=kangoo-e-tech-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.052 €","https://angebote.carwow.de/buying/car-configurator/trim?make=renault&model=kangoo-e-tech-2022","Neue Renault Kangoo E-TECH Angebote","Ab 28.336 €","https://www.carwow.de/renault/kangoo-e-tech/leasing","Renault Kangoo E-TECH Leasing-Angebote","Leasen ab 314 € / Monat","","","",""
+"Audi Q2","Kompakter Trendsetter ist gut verarbeitet","https://www.carwow.de/audi/q2","8/10","Audi Q2 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q2&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q2&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q2&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.574 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=q2","Neue Audi Q2 Angebote","Ab 24.100 €","https://www.carwow.de/audi/q2/leasing","Audi Q2 Leasing-Angebote","Leasen ab 309 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-61324fe947f5ce591c398e27a4c35321"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-61324fe947f5ce591c398e27a4c35321"", true);
+  });",".google-ad#div-gpt-61324fe947f5ce591c398e27a4c35321 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-61324fe947f5ce591c398e27a4c35321 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-61324fe947f5ce591c398e27a4c35321 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-61324fe947f5ce591c398e27a4c35321 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-61324fe947f5ce591c398e27a4c35321 {
+      min-height: 270px;
+    }
+  }"
+"Audi Q3 Sportback","Kompakt-SUV in sportlicher Optik","https://www.carwow.de/audi/q3-sportback","8/10","Audi Q3 Sportback Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3-sportback&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3-sportback&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=q3-sportback&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.943 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=q3-sportback","Neue Audi Q3 Sportback Angebote","Ab 33.541 €","https://www.carwow.de/audi/q3-sportback/leasing","Audi Q3 Sportback Leasing-Angebote","Leasen ab 316 € / Monat","","","",""
+"KIA Niro","Hybrid-Alleskönner in modernem Auftreten","https://www.carwow.de/kia/niro","8/10","KIA Niro Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=niro-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=niro-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=kia&filter%5Bmodel_review_slug%5D=niro-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.611 €","https://angebote.carwow.de/buying/car-configurator/trim?make=kia&model=niro-2022","Neue KIA Niro Angebote","Ab 29.002 €","https://www.carwow.de/kia/niro/leasing","KIA Niro Leasing-Angebote","Leasen ab 317 € / Monat","","","",""
+"Volkswagen ID.4","Elektro-SUV mit guter Reichweite","https://www.carwow.de/volkswagen/id4","8/10","Volkswagen ID.4 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id4-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id4-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id4-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.080 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=id4-2020","Neue Volkswagen ID.4 Angebote","Ab 35.460 €","https://www.carwow.de/volkswagen/id4/leasing","Volkswagen ID.4 Leasing-Angebote","Leasen ab 319 € / Monat","","","",""
+"Hyundai IONIQ 6","Windschnittige E-Limousine mit Coupé Silhouette","https://www.carwow.de/hyundai/ioniq-6","8/10","Hyundai IONIQ 6 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=ioniq-6-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=ioniq-6-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=ioniq-6-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 12.799 €","https://angebote.carwow.de/buying/car-configurator/trim?make=hyundai&model=ioniq-6-2022","Neue Hyundai IONIQ 6 Angebote","Ab 33.693 €","https://www.carwow.de/hyundai/ioniq-6/leasing","Hyundai IONIQ 6 Leasing-Angebote","Leasen ab 326 € / Monat","","","",""
+"Nissan X-Trail","Geräumiger Hybrid-SUV mit hoher Variabilität","https://www.carwow.de/nissan/x-trail","7/10","Nissan X-Trail Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=x-trail-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=x-trail-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=nissan&filter%5Bmodel_review_slug%5D=x-trail-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.574 €","https://angebote.carwow.de/buying/car-configurator/trim?make=nissan&model=x-trail-2022","Neue Nissan X-Trail Angebote","Ab 32.236 €","https://www.carwow.de/nissan/x-trail/leasing","Nissan X-Trail Leasing-Angebote","Leasen ab 327 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-9298cd1fbe6eea87397e367554f63d6b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-9298cd1fbe6eea87397e367554f63d6b"", true);
+  });",".google-ad#div-gpt-9298cd1fbe6eea87397e367554f63d6b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-9298cd1fbe6eea87397e367554f63d6b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-9298cd1fbe6eea87397e367554f63d6b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-9298cd1fbe6eea87397e367554f63d6b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-9298cd1fbe6eea87397e367554f63d6b {
+      min-height: 270px;
+    }
+  }"
+"Ford Focus ST Turnier","Sportlicher Kombi mit viel Platz","https://www.carwow.de/ford/focus-st-turnier","7/10","Ford Focus ST Turnier Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=focus-st-turnier&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=focus-st-turnier&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=focus-st-turnier&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.898 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ford&model=focus-st-turnier","Neue Ford Focus ST Turnier Angebote","Ab 35.236 €","https://www.carwow.de/ford/focus-st-turnier/leasing","Ford Focus ST Turnier Leasing-Angebote","Leasen ab 328 € / Monat","","","",""
+"Volkswagen Multivan","Geräumiger Kleinbus beweist Variabilität","https://www.carwow.de/volkswagen/multivan","7/10","Volkswagen Multivan Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=multivan-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=multivan-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=multivan-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 12.945 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=multivan-2022","Neue Volkswagen Multivan Angebote","Ab 46.112 €","https://www.carwow.de/volkswagen/multivan/leasing","Volkswagen Multivan Leasing-Angebote","Leasen ab 337 € / Monat","","","",""
+"Skoda Octavia Combi RS","Praktischer Kombi bietet Platz und Leistung","https://www.carwow.de/skoda/octavia-combi-rs","9/10","Skoda Octavia Combi RS Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-combi-rs-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-combi-rs-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=octavia-combi-rs-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 11.462 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=octavia-combi-rs-2020","Neue Skoda Octavia Combi RS Angebote","Ab 38.198 €","https://www.carwow.de/skoda/octavia-combi-rs/leasing","Skoda Octavia Combi RS Leasing-Angebote","Leasen ab 340 € / Monat","","","",""
+"Toyota RAV4","Ein SUV auch für raues Gelände","https://www.carwow.de/toyota/rav4","8/10","Toyota RAV4 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=rav4&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=rav4&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=rav4&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.385 €","https://angebote.carwow.de/buying/car-configurator/trim?make=toyota&model=rav4","Neue Toyota RAV4 Angebote","Ab 37.681 €","https://www.carwow.de/toyota/rav4/leasing","Toyota RAV4 Leasing-Angebote","Leasen ab 349 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b"", true);
+  });",".google-ad#div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-cbaf8b7a25c755bad7c0e4f62e4ce36b {
+      min-height: 270px;
+    }
+  }"
+"Skoda Kodiaq","","https://www.carwow.de/skoda/kodiaq","8/10","Skoda Kodiaq Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kodiaq-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kodiaq-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=skoda&filter%5Bmodel_review_slug%5D=kodiaq-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.669 €","https://angebote.carwow.de/buying/car-configurator/trim?make=skoda&model=kodiaq-2024","Neue Skoda Kodiaq Angebote","Ab 36.514 €","https://www.carwow.de/skoda/kodiaq/leasing","Skoda Kodiaq Leasing-Angebote","Leasen ab 350 € / Monat","","","",""
+"Abarth 500e Cabrio","Lifestyle-Cabrio trifft Go-Kart-Gefühl","https://www.carwow.de/abarth/500e-cabrio","8/10","Abarth 500e Cabrio Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=abarth&filter%5Bmodel_review_slug%5D=500e-cabrio-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=abarth&filter%5Bmodel_review_slug%5D=500e-cabrio-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=abarth&filter%5Bmodel_review_slug%5D=500e-cabrio-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 7.408 €","https://angebote.carwow.de/buying/car-configurator/trim?make=abarth&model=500e-cabrio-2023","Neue Abarth 500e Cabrio Angebote","Ab 30.917 €","https://www.carwow.de/abarth/500e-cabrio/leasing","Abarth 500e Cabrio Leasing-Angebote","Leasen ab 360 € / Monat","","","",""
+"Ford Puma ST","Kraftvoller Motor macht den Puma bissig","https://www.carwow.de/ford/puma-st","8/10","Ford Puma ST Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=puma-st-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=puma-st-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=puma-st-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 6.496 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ford&model=puma-st-2020","Neue Ford Puma ST Angebote","Ab 35.433 €","https://www.carwow.de/ford/puma-st/leasing","Ford Puma ST Leasing-Angebote","Leasen ab 361 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-5b69c216608d3144c9b7286b7d65c7cd"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-5b69c216608d3144c9b7286b7d65c7cd"", true);
+  });",".google-ad#div-gpt-5b69c216608d3144c9b7286b7d65c7cd {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-5b69c216608d3144c9b7286b7d65c7cd {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-5b69c216608d3144c9b7286b7d65c7cd {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-5b69c216608d3144c9b7286b7d65c7cd {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-5b69c216608d3144c9b7286b7d65c7cd {
+      min-height: 270px;
+    }
+  }"
+"Toyota Proace City Verso Electric","Umweltschonendes Gesamtpaket für den Alltag","https://www.carwow.de/toyota/proace-city-verso-electric","7/10","Toyota Proace City Verso Electric Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-electric-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-electric-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=toyota&filter%5Bmodel_review_slug%5D=proace-city-verso-electric-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.838 €","https://angebote.carwow.de/buying/car-configurator/trim?make=toyota&model=proace-city-verso-electric-2022","Neue Toyota Proace City Verso Electric Angebote","Ab 36.491 €","https://www.carwow.de/toyota/proace-city-verso-electric/leasing","Toyota Proace City Verso Electric Leasing-Angebote","Leasen ab 397 € / Monat","","","",""
+"Volkswagen Tayron","","https://www.carwow.de/volkswagen/tayron","8/10","Volkswagen Tayron Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=tayron-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=tayron-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=tayron-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.343 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=tayron-2024","Neue Volkswagen Tayron Angebote","Ab 40.116 €","https://www.carwow.de/volkswagen/tayron/leasing","Volkswagen Tayron Leasing-Angebote","Leasen ab 397 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-e09302088a93e2324ef8400f02e1383b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-e09302088a93e2324ef8400f02e1383b"", true);
+  });",".google-ad#div-gpt-e09302088a93e2324ef8400f02e1383b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-e09302088a93e2324ef8400f02e1383b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-e09302088a93e2324ef8400f02e1383b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-e09302088a93e2324ef8400f02e1383b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-e09302088a93e2324ef8400f02e1383b {
+      min-height: 270px;
+    }
+  }"
+"BMW i4","Passionate Gran Coupé has an electrifying effect","https://www.carwow.de/bmw/i4","8/10","BMW i4 review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=i4-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=i4-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=i4-2021&filter%5Bsize%5D=medium","Average savings €16,704","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=i4-2021","New BMW i4 offers","From €42,730","https://www.carwow.de/bmw/i4/leasing","BMW i4 leasing offers","Leasing from 399 € / month","","","",""
+"DS 3 E-Tense","Elektrischer Cityflitzer","https://www.carwow.de/ds/3-e-tense","5/10","DS 3 E-Tense Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ds&filter%5Bmodel_review_slug%5D=3-e-tense-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ds&filter%5Bmodel_review_slug%5D=3-e-tense-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ds&filter%5Bmodel_review_slug%5D=3-e-tense-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 2.183 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ds&model=3-e-tense-2022","Neue DS 3 E-Tense Angebote","Ab 40.415 €","https://www.carwow.de/ds/3-e-tense/leasing","DS 3 E-Tense Leasing-Angebote","Leasen ab 399 € / Monat","","","",""
+"BMW 3er Touring","Dynamischer Kombi mit gutem Alltagsnutzen","https://www.carwow.de/bmw/3er-touring","9/10","BMW 3er Touring Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=3er-touring&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=3er-touring&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=3er-touring&filter%5Bsize%5D=medium","Mittl. Ersparnis 13.921 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=3er-touring","Neue BMW 3er Touring Angebote","Ab 37.615 €","https://www.carwow.de/bmw/3er-touring/leasing","BMW 3er Touring Leasing-Angebote","Leasen ab 399 € / Monat","","","",""
+"Peugeot e-208","Moderner Elektro-Kleinwagen","https://www.carwow.de/peugeot/e-208","7/10","Peugeot e-208 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-208&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-208&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-208&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.016 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=e-208","Neue Peugeot e-208 Angebote","Ab 32.553 €","https://www.carwow.de/peugeot/e-208/leasing","Peugeot e-208 Leasing-Angebote","Leasen ab 411 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-7879efd828d6ae8bd42762bd09c92df3"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-7879efd828d6ae8bd42762bd09c92df3"", true);
+  });",".google-ad#div-gpt-7879efd828d6ae8bd42762bd09c92df3 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-7879efd828d6ae8bd42762bd09c92df3 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-7879efd828d6ae8bd42762bd09c92df3 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-7879efd828d6ae8bd42762bd09c92df3 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-7879efd828d6ae8bd42762bd09c92df3 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-8b8ccb0d96e4f9056b61108992e55b59"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-8b8ccb0d96e4f9056b61108992e55b59"", true);
+  });",".google-ad#div-gpt-8b8ccb0d96e4f9056b61108992e55b59 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-8b8ccb0d96e4f9056b61108992e55b59 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-8b8ccb0d96e4f9056b61108992e55b59 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-8b8ccb0d96e4f9056b61108992e55b59 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-8b8ccb0d96e4f9056b61108992e55b59 {
+      min-height: 270px;
+    }
+  }"
+"Volkswagen California","","https://www.carwow.de/volkswagen/california","8/10","Volkswagen California Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=california-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=california-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=california-2025&filter%5Bsize%5D=medium","Mittl. Ersparnis 14.579 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=california-2025","Neue Volkswagen California Angebote","Ab 52.969 €","https://www.carwow.de/volkswagen/california/leasing","Volkswagen California Leasing-Angebote","Leasen ab 460 € / Monat","","","",""
+"Hyundai Kona Elektro","","https://www.carwow.de/hyundai/kona-elektro","7/10","Hyundai Kona Elektro Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=kona-elektro-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=kona-elektro-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=kona-elektro-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.906 €","https://angebote.carwow.de/buying/car-configurator/trim?make=hyundai&model=kona-elektro-2024","Neue Hyundai Kona Elektro Angebote","Ab 31.457 €","https://www.carwow.de/hyundai/kona-elektro/leasing","Hyundai Kona Elektro Leasing-Angebote","Leasen ab 461 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-24bf4bcd090ca44c9342513e7b41bf5a"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-24bf4bcd090ca44c9342513e7b41bf5a"", true);
+  });",".google-ad#div-gpt-24bf4bcd090ca44c9342513e7b41bf5a {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-24bf4bcd090ca44c9342513e7b41bf5a {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-24bf4bcd090ca44c9342513e7b41bf5a {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-24bf4bcd090ca44c9342513e7b41bf5a {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-24bf4bcd090ca44c9342513e7b41bf5a {
+      min-height: 270px;
+    }
+  }"
+"BMW iX2","Coupé-Heck trifft Elektro-SUV","https://www.carwow.de/bmw/ix2","8/10","BMW iX2 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=ix2-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=ix2-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=ix2-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 13.658 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=ix2-2023","Neue BMW iX2 Angebote","Ab 37.958 €","https://www.carwow.de/bmw/ix2/leasing","BMW iX2 Leasing-Angebote","Leasen ab 467 € / Monat","","","",""
+"Audi A5 Limousine","","https://www.carwow.de/audi/a5-limousine","8/10","Audi A5 Limousine Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a5-limousine-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a5-limousine-2025&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a5-limousine-2025&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.822 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=a5-limousine-2025","Neue Audi A5 Limousine Angebote","Ab 38.349 €","https://www.carwow.de/audi/a5-limousine/leasing","Audi A5 Limousine Leasing-Angebote","Leasen ab 467 € / Monat","","","",""
+"Volkswagen Grand California","Komfortabler Camper auf Crafter-Basis","https://www.carwow.de/volkswagen/grand-california","8/10","Volkswagen Grand California Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=grand-california-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=grand-california-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=grand-california-2021&filter%5Bsize%5D=medium","Mittl. Ersparnis 19.667 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=grand-california-2021","Neue Volkswagen Grand California Angebote","Ab 65.174 €","https://www.carwow.de/volkswagen/grand-california/leasing","Volkswagen Grand California Leasing-Angebote","Leasen ab 479 € / Monat","","","",""
+"Opel Mokka Electric","Ausgefeilter Elektro-SUV mit gutem Preisniveau","https://www.carwow.de/opel/mokka-e","7/10","Opel Mokka Electric  Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-e-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-e-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=mokka-e-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.679 €","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=mokka-e-2020","Neue Opel Mokka Electric  Angebote","Ab 32.424 €","https://www.carwow.de/opel/mokka-e/leasing","Opel Mokka Electric  Leasing-Angebote","Leasen ab 480 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-d5d105007c554bc8a1c2c162e6a21692"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-d5d105007c554bc8a1c2c162e6a21692"", true);
+  });",".google-ad#div-gpt-d5d105007c554bc8a1c2c162e6a21692 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-d5d105007c554bc8a1c2c162e6a21692 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-d5d105007c554bc8a1c2c162e6a21692 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-d5d105007c554bc8a1c2c162e6a21692 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-d5d105007c554bc8a1c2c162e6a21692 {
+      min-height: 270px;
+    }
+  }"
+"BMW X2","Sportliches SUV-Coupé mit hohem Lifestyle-Faktor","https://www.carwow.de/bmw/x2","7/10","BMW X2 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x2&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x2&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x2&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.325 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=x2","Neue BMW X2 Angebote","Ab 40.269 €","https://www.carwow.de/bmw/x2/leasing","BMW X2 Leasing-Angebote","Leasen ab 481 € / Monat","","","",""
+"Alfa Romeo Tonale","","https://www.carwow.de/alfa-romeo/tonale","8/10","Alfa Romeo Tonale Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=tonale-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=tonale-2022&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=tonale-2022&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.525 €","https://angebote.carwow.de/buying/car-configurator/trim?make=alfa-romeo&model=tonale-2022","Neue Alfa Romeo Tonale Angebote","Ab 37.457 €","https://www.carwow.de/alfa-romeo/tonale/leasing","Alfa Romeo Tonale Leasing-Angebote","Leasen ab 484 € / Monat","","","",""
+"Citroen e-Berlingo","Praktikabler Elektro-Van","https://www.carwow.de/citroen/e-berlingo","7/10","Citroen e-Berlingo Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-berlingo-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-berlingo-2021&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-berlingo-2021&filter%5Bsize%5D=medium","Mittl. Ersparnis 3.203 €","https://angebote.carwow.de/buying/car-configurator/trim?make=citroen&model=e-berlingo-2021","Neue Citroen e-Berlingo Angebote","Ab 37.572 €","https://www.carwow.de/citroen/e-berlingo/leasing","Citroen e-Berlingo Leasing-Angebote","Leasen ab 485 € / Monat","","","",""
+"XPENG P7","","https://www.carwow.de/xpeng/xpeng-p7","8/10","XPENG P7 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=xpeng&filter%5Bmodel_review_slug%5D=xpeng-p7-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=xpeng&filter%5Bmodel_review_slug%5D=xpeng-p7-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=xpeng&filter%5Bmodel_review_slug%5D=xpeng-p7-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.890 €","https://angebote.carwow.de/buying/car-configurator/trim?make=xpeng&model=xpeng-p7-2024","Neue XPENG P7 Angebote","Ab 43.150 €","https://www.carwow.de/xpeng/xpeng-p7/leasing","XPENG P7 Leasing-Angebote","Leasen ab 497 € / Monat","","","",""
+"Peugeot e-3008","","https://www.carwow.de/peugeot/e-3008","7/10","Peugeot e-3008 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-3008-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-3008-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-3008-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 4.758 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=e-3008-2024","Neue Peugeot e-3008 Angebote","Ab 45.372 €","https://www.carwow.de/peugeot/e-3008/leasing","Peugeot e-3008 Leasing-Angebote","Leasen ab 445 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-565630caad6de2211286878adee43b07"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-565630caad6de2211286878adee43b07"", true);
+  });",".google-ad#div-gpt-565630caad6de2211286878adee43b07 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-565630caad6de2211286878adee43b07 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-565630caad6de2211286878adee43b07 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-565630caad6de2211286878adee43b07 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-565630caad6de2211286878adee43b07 {
+      min-height: 270px;
+    }
+  }"
+"Opel Astra Electric","Golf-Konkurrent wird elektrisch","https://www.carwow.de/opel/astra-electric","9/10","Opel Astra Electric Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-electric-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-electric-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=opel&filter%5Bmodel_review_slug%5D=astra-electric-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.138 €","https://angebote.carwow.de/buying/car-configurator/trim?make=opel&model=astra-electric-2023","Neue Opel Astra Electric Angebote","Ab 34.042 €","https://www.carwow.de/opel/astra-electric/leasing","Opel Astra Electric Leasing-Angebote","Leasen ab 507 € / Monat","","","",""
+"Ford Tourneo Custom","","","","","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-custom-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-custom-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=tourneo-custom-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 15.018 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ford&model=tourneo-custom-2023","Neue Ford Tourneo Custom Angebote","Ab 43.185 €","https://www.carwow.de/ford/tourneo-custom/leasing","Ford Tourneo Custom Leasing-Angebote","Leasen ab 509 € / Monat","","","",""
+"Hyundai Santa Fe","Familien-SUV ohne Abenteuer-Attitüde","https://www.carwow.de/hyundai/santa-fe","8/10","Hyundai Santa Fe Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=santa-fe&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=santa-fe&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=hyundai&filter%5Bmodel_review_slug%5D=santa-fe&filter%5Bsize%5D=medium","Mittl. Ersparnis 11.856 €","https://angebote.carwow.de/buying/car-configurator/trim?make=hyundai&model=santa-fe","Neue Hyundai Santa Fe Angebote","Ab 49.764 €","https://www.carwow.de/hyundai/santa-fe/leasing","Hyundai Santa Fe Leasing-Angebote","Leasen ab 511 € / Monat","","","",""
+"Peugeot e-308 SW","","https://www.carwow.de/peugeot/e308-sw","8/10","Peugeot e-308 SW Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-sw-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-sw-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-sw-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.040 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=e-308-sw-2023","Neue Peugeot e-308 SW Angebote","Ab 39.660 €","https://www.carwow.de/peugeot/e308-sw/leasing","Peugeot e-308 SW Leasing-Angebote","Leasen ab 519 € / Monat","","","",""
+"Peugeot e-308","","https://www.carwow.de/peugeot/e308","8/10","Peugeot e-308 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-2023&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=e-308-2023&filter%5Bsize%5D=medium","Mittl. Ersparnis 4.946 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=e-308-2023","Neue Peugeot e-308 Angebote","Ab 38.720 €","https://www.carwow.de/peugeot/e308/leasing","Peugeot e-308 Leasing-Angebote","Leasen ab 529 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-21c3d56fc240dbc118106fd2882c4610"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-21c3d56fc240dbc118106fd2882c4610"", true);
+  });",".google-ad#div-gpt-21c3d56fc240dbc118106fd2882c4610 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-21c3d56fc240dbc118106fd2882c4610 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-21c3d56fc240dbc118106fd2882c4610 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-21c3d56fc240dbc118106fd2882c4610 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-21c3d56fc240dbc118106fd2882c4610 {
+      min-height: 270px;
+    }
+  }"
+"BMW X3","Agiler SUV mit Allroundtalent","https://www.carwow.de/bmw/x3","8/10","BMW X3 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x3&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x3&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x3&filter%5Bsize%5D=medium","Mittl. Ersparnis 11.367 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=x3","Neue BMW X3 Angebote","Ab 49.584 €","https://www.carwow.de/bmw/x3/leasing","BMW X3 Leasing-Angebote","Leasen ab 530 € / Monat","","","",""
+"Citroen e-SpaceTourer","Moderner Kleinbus mit Elektroantrieb","https://www.carwow.de/citroen/e-spacetourer","7/10","Citroen e-SpaceTourer Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-space-tourer-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-space-tourer-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=citroen&filter%5Bmodel_review_slug%5D=e-space-tourer-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 5.886 €","https://angebote.carwow.de/buying/car-configurator/trim?make=citroen&model=e-space-tourer-2020","Neue Citroen e-SpaceTourer Angebote","Ab 42.294 €","https://www.carwow.de/citroen/e-spacetourer/leasing","Citroen e-SpaceTourer Leasing-Angebote","Leasen ab 531 € / Monat","","","",""
+"Volkswagen Golf R","Der Stärkste seiner Art","https://www.carwow.de/volkswagen/golf-r","9/10","Volkswagen Golf R Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-r-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-r-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-r-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.308 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=golf-r-2020","Neue Volkswagen Golf R Angebote","Ab 46.145 €","https://www.carwow.de/volkswagen/golf-r/leasing","Volkswagen Golf R Leasing-Angebote","Leasen ab 535 € / Monat","","","",""
+"Volkswagen Golf GTE","Der beliebte Kompaktwagen in sportlich und elektrifiziert","https://www.carwow.de/volkswagen/golf-gte","9/10","Volkswagen Golf GTE Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-gte-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-gte-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=golf-gte-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.100 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=golf-gte-2020","Neue Volkswagen Golf GTE Angebote","Ab 39.890 €","https://www.carwow.de/volkswagen/golf-gte/leasing","Volkswagen Golf GTE Leasing-Angebote","Leasen ab 541 € / Monat","","","",""
+"Ford Mustang Mach-E","Elektro-SUV auf Basis des berühmten Muscle Cars","https://www.carwow.de/ford/mustang-mach-e","8/10","Ford Mustang Mach-E Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=mustang-mach-e-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=mustang-mach-e-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=ford&filter%5Bmodel_review_slug%5D=mustang-mach-e-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.892 €","https://angebote.carwow.de/buying/car-configurator/trim?make=ford&model=mustang-mach-e-2020","Neue Ford Mustang Mach-E Angebote","Ab 48.980 €","https://www.carwow.de/ford/mustang-mach-e/leasing","Ford Mustang Mach-E Leasing-Angebote","Leasen ab 529 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-e147909f722ea823f1fc0724f3181337"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-e147909f722ea823f1fc0724f3181337"", true);
+  });",".google-ad#div-gpt-e147909f722ea823f1fc0724f3181337 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-e147909f722ea823f1fc0724f3181337 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-e147909f722ea823f1fc0724f3181337 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-e147909f722ea823f1fc0724f3181337 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-e147909f722ea823f1fc0724f3181337 {
+      min-height: 270px;
+    }
+  }"
+"Volkswagen ID.7 Tourer","","https://www.carwow.de/volkswagen/id7-tourer","9/10","Volkswagen ID.7 Tourer review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-2024&filter%5Bsize%5D=medium","Average savings €7,791","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=id7-tourer-2024","New Volkswagen ID.7 Tourer offers","From €48,876","https://www.carwow.de/volkswagen/id7-tourer/leasing","Volkswagen ID.7 Tourer leasing offers","Leasing from 548 € / month","","","",""
+"BMW Z4","Schöner Roadster ist sportlich-elegant","https://www.carwow.de/bmw/z4","8/10","BMW Z4 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=z4&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=z4&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=z4&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.683 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=z4","Neue BMW Z4 Angebote","Ab 43.479 €","https://www.carwow.de/bmw/z4/leasing","BMW Z4 Leasing-Angebote","Leasen ab 463 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-978d2912f209914d664149b49de5452b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-978d2912f209914d664149b49de5452b"", true);
+  });",".google-ad#div-gpt-978d2912f209914d664149b49de5452b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-978d2912f209914d664149b49de5452b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-978d2912f209914d664149b49de5452b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-978d2912f209914d664149b49de5452b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-978d2912f209914d664149b49de5452b {
+      min-height: 270px;
+    }
+  }"
+"BMW 4er","Ästhetisches Coupé fährt sich hervorragend","https://www.carwow.de/bmw/4er","8/10","BMW 4er Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=4er-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=4er-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=4er-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 10.246 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=4er-2020","Neue BMW 4er Angebote","Ab 45.616 €","https://www.carwow.de/bmw/4er/leasing","BMW 4er Leasing-Angebote","Leasen ab 605 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b"", true);
+  });",".google-ad#div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-1cec2d774e8a8e1ef866d78a1ec22a4b {
+      min-height: 270px;
+    }
+  }"
+"Alfa Romeo Stelvio","Dynamischer Mittelklasse-SUV","https://www.carwow.de/alfa-romeo/stelvio","8/10","Alfa Romeo Stelvio Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=stelvio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=stelvio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=alfa-romeo&filter%5Bmodel_review_slug%5D=stelvio&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.682 €","https://angebote.carwow.de/buying/car-configurator/trim?make=alfa-romeo&model=stelvio","Neue Alfa Romeo Stelvio Angebote","Ab 53.111 €","https://www.carwow.de/alfa-romeo/stelvio/leasing","Alfa Romeo Stelvio Leasing-Angebote","Leasen ab 612 € / Monat","","","",""
+"Jeep Wrangler","Klassischer Jeep in verschiedenen Ausführungen","https://www.carwow.de/jeep/wrangler","8/10","Jeep Wrangler Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=wrangler&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=wrangler&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=jeep&filter%5Bmodel_review_slug%5D=wrangler&filter%5Bsize%5D=medium","Mittl. Ersparnis 9.146 €","https://angebote.carwow.de/buying/car-configurator/trim?make=jeep&model=wrangler","Neue Jeep Wrangler Angebote","Ab 61.903 €","https://www.carwow.de/jeep/wrangler/leasing","Jeep Wrangler Leasing-Angebote","Leasen ab 623 € / Monat","","","",""
+"Volkswagen ID.7 GTX","","https://www.carwow.de/volkswagen/id7-gtx","9/10","Volkswagen ID.7 GTX Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-gtx-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-gtx-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-gtx-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.526 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=id7-gtx-2024","Neue Volkswagen ID.7 GTX Angebote","Ab 55.901 €","https://www.carwow.de/volkswagen/id7-gtx/leasing","Volkswagen ID.7 GTX Leasing-Angebote","Leasen ab 628 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-7a71cdadafd90b6100349f4f707e6033"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-7a71cdadafd90b6100349f4f707e6033"", true);
+  });",".google-ad#div-gpt-7a71cdadafd90b6100349f4f707e6033 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-7a71cdadafd90b6100349f4f707e6033 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-7a71cdadafd90b6100349f4f707e6033 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-7a71cdadafd90b6100349f4f707e6033 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-7a71cdadafd90b6100349f4f707e6033 {
+      min-height: 270px;
+    }
+  }"
+"Volvo EX40","","https://www.carwow.de/volvo/ex40","8/10","Volvo EX40 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex40-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex40-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=ex40-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 11.408 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volvo&model=ex40-2024","Neue Volvo EX40 Angebote","Ab 41.882 €","https://www.carwow.de/volvo/ex40/leasing","Volvo EX40 Leasing-Angebote","Leasen ab 629 € / Monat","","","",""
+"Volkswagen ID.7 GTX Tourer","","https://www.carwow.de/volkswagen/id7-tourer-gtx","9/10","Volkswagen ID.7 GTX Tourer Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-gtx-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-gtx-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volkswagen&filter%5Bmodel_review_slug%5D=id7-tourer-gtx-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 8.558 €","https://angebote.carwow.de/buying/car-configurator/trim?make=volkswagen&model=id7-tourer-gtx-2024","Neue Volkswagen ID.7 GTX Tourer Angebote","Ab 56.669 €","https://www.carwow.de/volkswagen/id7-tourer-gtx/leasing","Volkswagen ID.7 GTX Tourer Leasing-Angebote","Leasen ab 637 € / Monat","","","",""
+"Peugeot e-5008","","https://www.carwow.de/peugeot/peugeot-e-5008","8/10","Peugeot e-5008 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=peugeot-e-5008-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=peugeot-e-5008-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=peugeot&filter%5Bmodel_review_slug%5D=peugeot-e-5008-2024&filter%5Bsize%5D=medium","Mittl. Ersparnis 4.983 €","https://angebote.carwow.de/buying/car-configurator/trim?make=peugeot&model=peugeot-e-5008-2024","Neue Peugeot e-5008 Angebote","Ab 47.647 €","https://www.carwow.de/peugeot/peugeot-e-5008/leasing","Peugeot e-5008 Leasing-Angebote","Leasen ab 639 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-06b7da8e6e4626f6d503cf563cf38532"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-06b7da8e6e4626f6d503cf563cf38532"", true);
+  });",".google-ad#div-gpt-06b7da8e6e4626f6d503cf563cf38532 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-06b7da8e6e4626f6d503cf563cf38532 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-06b7da8e6e4626f6d503cf563cf38532 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-06b7da8e6e4626f6d503cf563cf38532 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-06b7da8e6e4626f6d503cf563cf38532 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-9c4d5a3a632c6787d5d4b118c71f8533"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-9c4d5a3a632c6787d5d4b118c71f8533"", true);
+  });",".google-ad#div-gpt-9c4d5a3a632c6787d5d4b118c71f8533 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-9c4d5a3a632c6787d5d4b118c71f8533 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-9c4d5a3a632c6787d5d4b118c71f8533 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-9c4d5a3a632c6787d5d4b118c71f8533 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-9c4d5a3a632c6787d5d4b118c71f8533 {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b"", true);
+  });",".google-ad#div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-e5eef95b1a8381cc3f72a853ebd05f8b {
+      min-height: 270px;
+    }
+  }"
+"BMW X5","Großer SUV mit reichlich Raum und Dynamik","https://www.carwow.de/bmw/x5","8/10","BMW X5 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x5&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x5&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=x5&filter%5Bsize%5D=medium","Mittl. Ersparnis 15.901 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=x5","Neue BMW X5 Angebote","Ab 76.546 €","https://www.carwow.de/bmw/x5/leasing","BMW X5 Leasing-Angebote","Leasen ab 654 € / Monat","","","",""
+"Audi A8","Luxus-Limousine mit umfangreicher Ausstattung","https://www.carwow.de/audi/a8","8/10","Audi A8 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=audi&filter%5Bmodel_review_slug%5D=a8&filter%5Bsize%5D=medium","Mittl. Ersparnis 25.144 €","https://angebote.carwow.de/buying/car-configurator/trim?make=audi&model=a8","Neue Audi A8 Angebote","Ab 83.582 €","https://www.carwow.de/audi/a8/leasing","Audi A8 Leasing-Angebote","Leasen ab 1.018 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-4241d493b803639a2794303aae4a9e9c"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-4241d493b803639a2794303aae4a9e9c"", true);
+  });",".google-ad#div-gpt-4241d493b803639a2794303aae4a9e9c {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-4241d493b803639a2794303aae4a9e9c {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-4241d493b803639a2794303aae4a9e9c {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-4241d493b803639a2794303aae4a9e9c {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-4241d493b803639a2794303aae4a9e9c {
+      min-height: 270px;
+    }
+  }"
+"Volvo S90","Luxusliner voll moderner Technikhighlights","https://www.carwow.de/volvo/s90","8/10","Volvo S90 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=s90&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=s90&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=volvo&filter%5Bmodel_review_slug%5D=s90&filter%5Bsize%5D=medium","","","Neue Volvo S90 Angebote","Derzeit nicht verfügbar","https://www.carwow.de/volvo/s90/leasing","Volvo S90 Leasing-Angebote","Leasen ab 1.032 € / Monat","","","",""
+"BMW M3","Sportliche Limousine mit Heckantrieb","https://www.carwow.de/bmw/m3","9/10","BMW M3 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m3-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m3-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m3-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 17.045 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=m3-2020","Neue BMW M3 Angebote","Ab 79.964 €","https://www.carwow.de/bmw/m3/leasing","BMW M3 Leasing-Angebote","Leasen ab 623 € / Monat","","","",""
+"BMW M4","Klassisches Sportcoupé mit viel Power","https://www.carwow.de/bmw/m4","8/10","BMW M4 Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m4-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m4-2020&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m4-2020&filter%5Bsize%5D=medium","Mittl. Ersparnis 19.781 €","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=m4-2020","Neue BMW M4 Angebote","Ab 81.628 €","https://www.carwow.de/bmw/m4/leasing","BMW M4 Leasing-Angebote","Leasen ab 1.045 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a"", true);
+  });",".google-ad#div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-9edbf4fcf7d9e05d194dbe026e4ffc3a {
+      min-height: 270px;
+    }
+  }"
+"Lotus Emeya","","https://www.carwow.de/lotus/emeya","8/10","Lotus Emeya Testbericht","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=lotus&filter%5Bmodel_review_slug%5D=emeya-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=lotus&filter%5Bmodel_review_slug%5D=emeya-2024&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=lotus&filter%5Bmodel_review_slug%5D=emeya-2024&filter%5Bsize%5D=medium","","https://angebote.carwow.de/buying/car-configurator/trim?make=lotus&model=emeya-2024","Neue Lotus Emeya Angebote","Ab 108.990 €","https://www.carwow.de/lotus/emeya/leasing","Lotus Emeya Leasing-Angebote","Leasen ab 1.354 € / Monat","","","",""
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-00b78ddc8705ee46136f920a4a2cf55c"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-00b78ddc8705ee46136f920a4a2cf55c"", true);
+  });",".google-ad#div-gpt-00b78ddc8705ee46136f920a4a2cf55c {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-00b78ddc8705ee46136f920a4a2cf55c {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-00b78ddc8705ee46136f920a4a2cf55c {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-00b78ddc8705ee46136f920a4a2cf55c {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-00b78ddc8705ee46136f920a4a2cf55c {
+      min-height: 270px;
+    }
+  }"
+"","","","","","","","","","","","","","","","",".billboard-loading-container {
+    container: loader / inline-size;
+  }
+  
+  .billboard-loading {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 10px;
+    padding: 16px 24px;
+    display: flex;
+  }
+  
+  .billboard-loading__text-wrap {
+    width: 100%;
+  }
+  
+  .billboard-loading__rectangle {
+    display: none;
+  }
+  
+  .loading-placeholder-cta {
+    height: 220px
+  }
+  
+  @container loader (min-width: 651px) {
+    .billboard-loading {
+      height: 346px;
+    }
+    .billboard-loading__text-wrap {
+      width: 37%;
+    }
+    .billboard-loading__rectangle {
+      display: block;
+      position: relative;
+      width: 60%;
+      height: 100%;
+      margin-left: auto;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .loading-placeholder-cta {
+      height: 50px
+    }
+  }","window.carwowGoogleTag.push(function() {
+    defineGoogleAdSlot('{""unitPath"":""/22378928785/de/car_card_ad"",""fluid"":true,""native"":true,""divId"":""div-gpt-0b00cd258eae51c6274bc10afae8d410"",""targetingKeyValues"":{}}');
+  });
+  
+  window.carwowGoogleTag.push(function() {
+    displayGoogleAd(""div-gpt-0b00cd258eae51c6274bc10afae8d410"", true);
+  });",".google-ad#div-gpt-0b00cd258eae51c6274bc10afae8d410 {
+    height: 100%;
+  }",".google-ad-container {
+    container: advert / inline-size;
+  }
+  
+  .google-ad#div-gpt-0b00cd258eae51c6274bc10afae8d410 {
+    position: relative;
+  }
+  
+  @container advert (max-width: 650px) {
+    .google-ad#div-gpt-0b00cd258eae51c6274bc10afae8d410 {
+      min-height: 520px;
+    }
+  }
+  
+  @container advert (min-width: 651px) and (max-width: 1024px) {
+    .google-ad#div-gpt-0b00cd258eae51c6274bc10afae8d410 {
+      min-height: 270px;
+    }
+  }
+  
+  @container advert (min-width: 1025px) {
+    .google-ad#div-gpt-0b00cd258eae51c6274bc10afae8d410 {
+      min-height: 270px;
+    }
+  }"
+"BMW M8","The super sporty 8 Series Coupé","https://www.carwow.de/bmw/m8","8/10","BMW M8 review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8&filter%5Bsize%5D=medium","Average savings €31,247","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=m8","New BMW M8 offers","From 155,193 €","https://www.carwow.de/bmw/m8/leasing","BMW M8 leasing offers","Leasing from €2,233 / month","","","",""
+"BMW M8 Convertible","The super sporty 8 Series convertible","https://www.carwow.de/bmw/m8-cabrio","8/10","BMW M8 Convertible review","1/3","https://deals.carwow.de/image?filter%5Bangle%5D=rear&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8-cabrio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=side_left&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8-cabrio&filter%5Bsize%5D=medium","https://deals.carwow.de/image?filter%5Bangle%5D=front&filter%5Bbrand_slug%5D=bmw&filter%5Bmodel_review_slug%5D=m8-cabrio&filter%5Bsize%5D=medium","Average savings €32,591","https://angebote.carwow.de/buying/car-configurator/trim?make=bmw&model=m8-cabrio","New BMW M8 Convertible offers","From 161,849 €","https://www.carwow.de/bmw/m8-cabrio/leasing","BMW M8 Convertible leasing offers","Leasing from €2,329 / month","","","",""
